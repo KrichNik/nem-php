@@ -5,11 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Gregory Saive",
-            "email": "greg@evias.be"
-        },
-        {
-            "name": "Robin Pedersen"
+            "name": "Nikita Datsenko",
+            "email": "nikdatsenko@gmail.com"
         }
     ],
     "repositories": [

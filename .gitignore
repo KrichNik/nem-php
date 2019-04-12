@@ -10,3 +10,10 @@ phpdoc
 phpdocmd
 build/
 docs/
+
+/.idea
+.idea
+.phpunit.result.cache
+.phpstorm.meta.php
+_ide_helper.php
+_ide_helper_models.php
